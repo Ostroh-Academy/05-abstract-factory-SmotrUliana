@@ -9,3 +9,6 @@
 Закомітити код та зробити pull request.
 
 
+## UML
+![image](https://github.com/Ostroh-Academy/05-abstract-factory-SmotrUliana/assets/128807783/fc192788-d817-409c-9c37-0d82b92e42a5)
+![image](https://github.com/Ostroh-Academy/05-abstract-factory-SmotrUliana/assets/128807783/5b9670d3-cffc-45af-8203-e32ddc04d7c3)
